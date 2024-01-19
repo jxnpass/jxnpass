@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jxnpass
+- 👋 Hi, I’m Jackson Passey
 - 👀 I’m interested in experimental/data projects involving marketing, psychology, and human behavior!
 - 🌱 I’m currently studying statistics at BYU!
 - 📚 Check out my [blog](https://jxnpass.github.io/) to see some of my projects.
